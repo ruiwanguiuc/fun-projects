@@ -4,7 +4,7 @@ Let's find synonyms in address field :)
 """
 from sklearn import tree
 
-FIND_SYNONYMS_DIR = "business_match/util/evaluation/find_synonyms/"
+FIND_SYNONYMS_DIR = "./"
 DUPLICATE_ADDRESS_FILE = FIND_SYNONYMS_DIR + "duplicate_addresses.txt"
 
 
